@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # covid-tracker
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-covidTracker
+>>>>>>> fb994e75e74478a8a5fbe2ee464bc3282d490076
